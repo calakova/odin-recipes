@@ -1,0 +1,30 @@
+#home-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-stretch: ultra-expanded;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.button {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-stretch: ultra-expanded;
+}
+
+.meatballs {
+    background-color: rgb(211, 114, 69);
+    border-radius: 12px;
+}
+
+.muffins {
+    background-color: rgb(15, 150, 155);
+    border: 5px solid rgb(112, 0, 112)
+}
+
+.tiramisu {
+    background-color: rgb(53, 184, 26);
+}
