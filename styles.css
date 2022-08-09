@@ -1,6 +1,5 @@
 #home-title {
     font-family: Arial, Helvetica, sans-serif;
-    font-stretch: ultra-expanded;
 }
 
 a {
@@ -12,7 +11,6 @@ a {
     font-size: 20px;
     font-weight: bold;
     color: black;
-    font-stretch: ultra-expanded;
 }
 
 .meatballs {
@@ -27,4 +25,35 @@ a {
 
 .tiramisu {
     background-color: rgb(53, 184, 26);
+}
+
+img {
+    height: auto;
+    width: 700px;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    font-family: "Times New Roman", Georgia, sans-serif;
+}
+
+h4 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+strong {
+    color: rgb(84, 88, 233);
+}
+
+ol {
+    font-size: 20px;
+    text-align: center;
+}
+
+#oven {
+    background-color: aqua;
+    font-style: italic;
 }
